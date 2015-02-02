@@ -37,7 +37,7 @@ public class Tyontekija {
     }
     
     public String annaTiedot() {
-        return "\n" + "Henkilön " + this.nimi + " asema on " + this.asema + " ja hän saa palkkaa " + this.palkka + "euroa/kk. ";
+        return "\n\n" + "Henkilön " + this.nimi + " asema on " + this.asema + " ja hän saa palkkaa " + this.palkka + "euroa/kk. ";
     }
     
 }
